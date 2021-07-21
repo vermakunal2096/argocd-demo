@@ -5,7 +5,7 @@ metadata:
 
 ---
 
-apiVersion: v1
+apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
   name: hotel-ingress
