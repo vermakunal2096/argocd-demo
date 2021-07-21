@@ -28,7 +28,7 @@ metadata:
   name: hotel
   namespace: hotel
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: hotel
