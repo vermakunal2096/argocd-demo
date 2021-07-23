@@ -50,6 +50,7 @@ metadata:
   name: hotel-svc
   namespace: hotel
 spec:
+  type: LoadBalancer
   ports:
   - port: 80
     targetPort: 80
