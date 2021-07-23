@@ -12,7 +12,7 @@ metadata:
   namespace: hotel
 spec:
   rules:
-  - host:www.surajy.tk
+  - host: surajy.tk
     http:
       paths:
       - path: /
